@@ -8,7 +8,7 @@ const cool="rock"
 var disco:"panic at the disco",
 string["my string"]=2
 };
-function updatePlaylist (playlist, my string, disco){
+function updatePlaylist (playlist, rock, disco){
   object.assign({},
   return playlist
 };
