@@ -1,6 +1,9 @@
 var playlist = {"rock":"my chemical romance"};
 var playlist=new object{"rock:my chemical romance"}
-var rock:"hoobstank",
+var playlist={
+  "my chemical romance"
+  "the used"
+}
 var disco:"panic at the disco",
 string["my string"]=2
 };
