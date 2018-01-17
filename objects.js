@@ -1,5 +1,6 @@
 var playlist = {"rock""disco"
 };
+var playlist=new object
 var rock:"hoobstank",
 var disco:"panic at the disco",
 string["my string"]=2
