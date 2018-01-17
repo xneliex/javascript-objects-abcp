@@ -5,7 +5,7 @@ disco:"panic at the disco",
 
 };
 function updatePlaylist (playlist, artist, title){
-  objectassing({})
+  objectassing({},
   return playlist
 };
 function removeFromPlaylist (playlist, artist, title){
