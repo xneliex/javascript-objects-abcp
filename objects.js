@@ -12,6 +12,6 @@ function updatePlaylist (playlist, rock, disco){
   object.assign({},
   return playlist
 };
-function removeFromPlaylist ( my string, disco){
+function removeFromPlaylist ( rock, disco){
   return playlist
 }
