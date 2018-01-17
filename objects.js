@@ -8,6 +8,6 @@ function updatePlaylist (playlist, rock, disco){
   object.assign({},
   return playlist
 };
-function removeFromPlaylist (playlist, rock, disco){
+function removeFromPlaylist ( rock, disco){
   return playlist
 }
