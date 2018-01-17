@@ -1,7 +1,7 @@
 var playlist = {"rock""disco"
 };
-rock:"hoobstank",
-disco:"panic at the disco",
+var rock:"hoobstank",
+var disco:"panic at the disco",
 
 };
 function updatePlaylist (playlist, artist, title){
