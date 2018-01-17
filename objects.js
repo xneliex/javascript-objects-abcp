@@ -5,7 +5,7 @@ var disco:"panic at the disco",
 
 };
 function updatePlaylist (playlist, rock, disco){
-  objectassing({},
+  object.assign({},
   return playlist
 };
 function removeFromPlaylist (playlist, rock, disco){
