@@ -1,4 +1,4 @@
-var playlist = {"rock""disco""pop"};
+var playlist = {"rock":"my chemical romance"};
 var playlist=new object
 var rock:"hoobstank",
 var disco:"panic at the disco",
