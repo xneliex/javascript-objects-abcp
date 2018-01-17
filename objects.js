@@ -4,6 +4,7 @@ var playlist={
   "my chemical romance"
   "the used"
 }
+const cool="rock"
 var disco:"panic at the disco",
 string["my string"]=2
 };
