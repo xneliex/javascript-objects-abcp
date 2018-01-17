@@ -4,10 +4,10 @@ var rock:"hoobstank",
 var disco:"panic at the disco",
 
 };
-function updatePlaylist (playlist, artist, title){
+function updatePlaylist (playlist, rock, disco){
   objectassing({},
   return playlist
 };
-function removeFromPlaylist (playlist, artist, title){
+function removeFromPlaylist (playlist, rock, disco){
   return playlist
 }
