@@ -4,10 +4,10 @@ var rock:"hoobstank",
 var disco:"panic at the disco",
 string["my string"]=2
 };
-function updatePlaylist (playlist, rock, disco){
+function updatePlaylist (playlist, my string, disco){
   object.assign({},
   return playlist
 };
-function removeFromPlaylist ( rock, disco){
+function removeFromPlaylist ( my string, disco){
   return playlist
 }
